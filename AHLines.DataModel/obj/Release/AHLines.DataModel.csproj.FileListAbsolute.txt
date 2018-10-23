@@ -1,0 +1,5 @@
+D:\AHLinesWebApi\AHLines.DataModel\bin\Release\AHLines.DataModel.dll
+D:\AHLinesWebApi\AHLines.DataModel\bin\Release\AHLines.DataModel.pdb
+D:\AHLinesWebApi\AHLines.DataModel\obj\Release\AHLines.DataModel.csproj.CoreCompileInputs.cache
+D:\AHLinesWebApi\AHLines.DataModel\obj\Release\AHLines.DataModel.dll
+D:\AHLinesWebApi\AHLines.DataModel\obj\Release\AHLines.DataModel.pdb

@@ -1,0 +1,6 @@
+D:\AHLinesWebApi\AHLines.DataModel\bin\Debug\AHLines.DataModel.dll
+D:\AHLinesWebApi\AHLines.DataModel\bin\Debug\AHLines.DataModel.pdb
+D:\AHLinesWebApi\AHLines.DataModel\obj\Debug\AHLines.DataModel.csprojAssemblyReference.cache
+D:\AHLinesWebApi\AHLines.DataModel\obj\Debug\AHLines.DataModel.csproj.CoreCompileInputs.cache
+D:\AHLinesWebApi\AHLines.DataModel\obj\Debug\AHLines.DataModel.dll
+D:\AHLinesWebApi\AHLines.DataModel\obj\Debug\AHLines.DataModel.pdb
